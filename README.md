@@ -40,5 +40,3 @@ Architecture          │ Clean Architecture, Design Patterns
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=houdaslassi&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
-💬 *"What drives me is the challenge of software engineering - finding the right solutions to complex problems."* 
