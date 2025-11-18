@@ -1,5 +1,3 @@
-houdaslassi/README.md
-
 ![1752975182942](https://github.com/user-attachments/assets/f56335a4-7c1e-430f-bfa7-e49dd46facfc)
 
 <p align="center">Get to know me better through the links below.</p>
